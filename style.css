@@ -1,0 +1,35 @@
+/* body{
+   background-image: url(./IMG/backgroud.jpg); 
+  
+} */
+table {
+    border-style: solid;
+    border: solid;
+    border-collapse: collapse;
+    
+}   
+
+th {
+    border-style: solid;
+    border: solid;
+    border-collapse: collapse;  
+}
+td {
+    border-style: solid;
+    border: solid;
+    border-collapse: collapse;    
+}
+h1{
+    font-size: xx-large;
+    color:green;
+}
+span {
+
+    color: yellow
+}
+ul {
+    list-style-type: circle;
+    color: blueviolet;
+
+
+}
